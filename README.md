@@ -167,7 +167,3 @@ UPACS/
 - This is a **research/demo** pipeline — clinical deployment requires rigorous trials and clear regulatory compliance. Always disclose this in the repo and demo.
 - R-peak detection and HRV features are sensitive to severe noise; collecting a larger, diverse dataset and adding robust peak detection (template matching / ML-based) are strong next steps.
 - Productizing: a small edge component that runs the HRV pipeline on-device and streams predictions to a dashboard would be a natural commercial follow-on.
-
-If you want, I can also:
-- Create a compact `requirements.txt` from your environment, and/or
-- Produce a one-slide architecture diagram (PNG) showing ECG → preprocessing → model branches → outputs.
