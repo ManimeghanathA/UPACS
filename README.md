@@ -1,7 +1,7 @@
 
 # UPACS — Unconscious Patient Autonomous Care System
 
-**Demo Link :** `https://upacs-care-with-ecg.streamlit.app/`
+**Demo Link :** https://upacs-care-with-ecg.streamlit.app/
 
 **Purpose, Impact & Unique Selling Proposition (detailed)**
 ---
