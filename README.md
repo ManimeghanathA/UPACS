@@ -1,6 +1,8 @@
 
 # UPACS — Unconscious Patient Autonomous Care System
 
+**Demo Link :** `https://upacs-care-with-ecg.streamlit.app/`
+
 **Purpose, Impact & Unique Selling Proposition (detailed)**
 ---
 UPACS is a purpose-built research-to-demo system that argues for a practical and deployable alternative to EEG‑based unconsciousness / cognitive monitoring: **use ECG**. The pitch is simple but high-impact:
